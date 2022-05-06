@@ -63,12 +63,16 @@ export default {
 
       tasks: [
         {
-          name: 'Steal bananas from the store',
-          status: 'to-do'
+          name: 'Learn Basic HTML and CSS',
+          status: 'finished'
         },
         {
-          name: 'Eat 1kg choclates in 1 hours',
+          name: 'Learn Vue js',
           status: 'in-progress'
+        },
+        {
+          name: 'Hack NASA',
+          status: 'to-do'
         }
       ]
     }
